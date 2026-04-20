@@ -36,22 +36,26 @@ profile = {
 <td width="50%" align="center" valign="middle">
 
 <a href="https://umd.edu">
-<img src="[https://en.wikipedia.org/wiki/University_of_Maryland,_College_Park#/media/File:University_of_Maryland_seal.svg](https://en.wikipedia.org/wiki/University_of_Maryland,_College_Park)" height="72" alt="University of Maryland"/>
+<img src="University_of_Maryland_seal.svg" height="72" alt="University of Maryland"/>
 </a>
 
 **University of Maryland, College Park**
+
 MS Data Science · GPA 3.9 / 4.0
+
 *Aug 2024 – May 2026*
 
 </td>
 <td width="50%" align="center" valign="middle">
 
 <a href="https://www.iitkgp.ac.in">
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/IIT_Kharagpur_Logo.svg/240px-IIT_Kharagpur_Logo.svg.png" height="72" alt="IIT Kharagpur"/>
+<img src="IIT_Kharagpur_Logo.svg.png" height="72" alt="IIT Kharagpur"/>
 </a>
 
 **Indian Institute of Technology, Kharagpur**
+
 B.Tech Electronics & Communications · GPA 4.0 / 4.0
+
 *Aug 2019 – Jun 2023*
 
 </td>
