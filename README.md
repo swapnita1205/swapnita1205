@@ -16,8 +16,8 @@
 
 ```python
 profile = {
-    "education"  : ["MS Data Science @ UMD College Park  — GPA 3.9/4.0",
-                    "B.Tech ECE     @ IIT Kharagpur       — GPA 4.0/4.0"],
+    "education"  : ["Masters in Data Science @ UMD College Park  — GPA 3.9/4.0",
+                    "Bachelors in Electronics and Communications     @ IIT Kharagpur       — GPA 4.0/4.0"],
     "currently"  : "ML Intern @ K-State Agronomy — geospatial deep learning on NASA/MODIS/Sentinel-2",
     "previously" : "Associate Data Engineer @ Moody's Investors Service",
     "building"   : ["LLM-powered analytics systems",
